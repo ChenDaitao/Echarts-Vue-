@@ -1,8 +1,8 @@
 # Echarts-Vue-
 
-  ## Echarts+Vue电商监控+koa2（皮毛）
+  ## Echarts+Vue电商监控+koa2
 
-   ### endpoint 后端服务器： 为前端获取数据提供接口
+   ### endpoint 后端服务器： 利用koa2搭建，主要为前端获取数据提供接口
          运行
          node app.js
          
