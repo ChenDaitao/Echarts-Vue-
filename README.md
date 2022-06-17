@@ -7,5 +7,8 @@
          node app.js
          
    ### suibian 前端项目文件 Vue+Echarts
+            运行
+         npm install
+         npm run serve
    
    
